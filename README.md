@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Hola mi nombre es ✨Luis✨, Front developer y full stack en formación.<br><br>🔭 Actualmente trabajo como front developer con Angular y Javascript, Caracas Venezuela.<br>🌱 Actualmente me encuentro aprendiendo NodeJS y express.<br>👯 Siempre estoy abierto a colaborar con nuevos equipos en cualquier proyecto, es bueno aceptar nuevos desafíos. <br>📫 Si quieres contactar conmigo te dejo mi correo luisperdomo408@gmail.com
+Hola mi nombre es ✨Luis✨, Front developer y full stack en formación.<br><br>🔭 Actualmente trabajo como front developer con Angular y Javascript, Caracas Venezuela.<br>🌱 Actualmente me encuentro aprendiendo NodeJS y express.<br>🤝🏻 Siempre estoy abierto a colaborar con nuevos equipos en cualquier proyecto, es bueno aceptar nuevos desafíos. <br>📫 Si quieres contactar conmigo te dejo mi correo luisperdomo408@gmail.com
 
 
 ## 🌐 Redes sociales:
