@@ -22,11 +22,8 @@ My programming experience and passion for technology have enabled me to develop 
   </a>
 </p>
 
-<br>
-
-
-<h3 align="center" width="100%">Connect with me:</h3>
 <p align="center">
+<h3 align="center" width="100%">Connect with me:</h3>
 <a href="https://linkedin.com/in/luis perdomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis perdomo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20866571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20866571" height="30" width="40" /></a>
 <a href="https://instagram.com/luisperdomo408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luisperdomo408" height="30" width="40" /></a>
