@@ -21,6 +21,13 @@ Since my childhood, I have always been fascinated by technology, both in the sof
 My programming experience and passion for technology have enabled me to develop scalable and high-quality projects in the Front-end realm. I consider myself a lover of clean and well-structured code, and I take pride in continuing to learn every day and staying up-to-date on the latest trends and technologies. If you're looking for a motivated and highly skilled Front-end programmer, please don't hesitate to contact me. I'm looking forward to working with you!
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrluis1&show_icons=true&locale=en&layout=compact" alt="mrluis1" /></p>
+<p></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrluis1&show_icons=true&locale=en" alt="mrluis1" /></p>
+<p>&nbsp;</p>
+
+<p>
+  <a href="https://github.com/MrLuis1">
+    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrluis1&show_icons=true&locale=en&layout=compact" alt="mrluis1" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mrluis1&show_icons=true&locale=en" alt="mrluis1" />
+  </a>
+</p>
