@@ -15,6 +15,17 @@ Since my childhood, I have always been fascinated by technology, both in the sof
 My programming experience and passion for technology have enabled me to develop scalable and high-quality projects in the Front-end realm. I consider myself a lover of clean and well-structured code, and I take pride in continuing to learn every day and staying up-to-date on the latest trends and technologies. If you're looking for a motivated and highly skilled Front-end programmer, please don't hesitate to contact me. I'm looking forward to working with you!
 </p>
 
+<br>
+
+<h3 align="center" width="100%">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/luis perdomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis perdomo" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20866571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20866571" height="30" width="40" /></a>
+<a href="https://instagram.com/luisperdomo408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luisperdomo408" height="30" width="40" /></a>
+</p>
+
+<br>
+
 <p>
   <a href="https://github.com/MrLuis1">
     <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrluis1&show_icons=true&locale=en&layout=compact" alt="mrluis1" />
@@ -22,9 +33,3 @@ My programming experience and passion for technology have enabled me to develop 
   </a>
 </p>
 
-<p align="center">
-<h3 align="center" width="100%">Connect with me:</h3>
-<a href="https://linkedin.com/in/luis perdomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis perdomo" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20866571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20866571" height="30" width="40" /></a>
-<a href="https://instagram.com/luisperdomo408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luisperdomo408" height="30" width="40" /></a>
-</p>
