@@ -27,7 +27,7 @@ My programming experience and passion for technology have enabled me to develop 
 
 <p>
   <a href="https://github.com/MrLuis1">
-    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrluis1&show_icons=true&locale=en&layout=compact" alt="mrluis1" />
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mrluis1&show_icons=true&locale=en" alt="mrluis1" />
+    <img width="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrluis1&show_icons=true&locale=en&layout=compact" alt="mrluis1" />
+    <img width="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mrluis1&show_icons=true&locale=en" alt="mrluis1" />
   </a>
 </p>
